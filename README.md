@@ -18,3 +18,5 @@ The control group will see the current (old) website, and the treatment group wi
 
 ## Exploratory Data Analysis (EDA)
 
+[EDA1](ABIMAGE/AB1.png)
+
