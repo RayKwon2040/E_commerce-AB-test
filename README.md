@@ -20,3 +20,13 @@ The control group will see the current (old) website, and the treatment group wi
 
 ![EDA1](ABIMAGE/AB1.png)
 
+* Most visitors find the website through organic search, either by entering keywords or clicking on non-sponsored links.
+
+* The majority of visitors access the site via mobile web (MWeb).
+
+* Approximately 70% of visitors browse the website without logging in.
+
+* Most of the site traffic comes from the western region of the United States.
+
+* Around 60% of visitors return to the website more than once.
+
